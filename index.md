@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/529AA9CE-5EF6-4CE7-8254-7859933E7DF5.jpeg"/>
+<img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
