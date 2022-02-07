@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="Alaska_Geomorphology_Map.pdf](https://github.com/nkurtz12/nkurtz12.github.io/files/8017918/Alaska_Geomorphology_Map.pdf)/>
+<img src="images/529AA9CE-5EF6-4CE7-8254-7859933E7DF5.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
