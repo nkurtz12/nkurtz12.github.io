@@ -10,13 +10,13 @@ a {
 
 a:hover,
 a:focus {
- color:#6a0dad;
+ color:green;
 }
 a small {
- color:#6a0dad;
+ color:green;
 }
 a:hover small {
- color:#6a0dad
+ color:green
 }
 
 /* body means everything, the default for the page */
