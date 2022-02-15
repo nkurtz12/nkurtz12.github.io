@@ -5,6 +5,7 @@
 ### Category Name 1 
 
 [QGIS Practice Map](/sample_page)
+This Project was an Introduction to QGIS. The Map shows Geomorphology of Alaska and Important natural features across the state
 <img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
 
 ---
