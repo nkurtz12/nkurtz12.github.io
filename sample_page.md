@@ -2,6 +2,6 @@
 
 **Project description:** This project was done as an introduction in QGIS. The Map is a sample map which displays the geomorphology of Alaska.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png?raw=true"/>
 
 
