@@ -9,8 +9,8 @@ This Project was an Introduction to QGIS. The Map shows Geomorphology of Alaska 
 <img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
 
 ---
-[Project 2 Title](project_2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MDOT SHA Green House Gas Analysis](/project_2)
+<img src="images/Screen%20Shot%202022-02-21%20at%2010.21.26%20PM.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
