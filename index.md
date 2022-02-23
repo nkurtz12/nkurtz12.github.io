@@ -13,7 +13,7 @@ This Project was an Introduction to QGIS. The Map shows Geomorphology of Alaska 
 <img src="images/Screen%20Shot%202022-02-21%20at%2010.21.26%20PM.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/project3_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
