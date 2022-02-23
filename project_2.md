@@ -1,3 +1,2 @@
-**Project description:** This project was done as an introduction in QGIS. The Map is a sample map which displays the geomorphology of Alaska.
-
+**Project description:** This project was done as my time as an intern at the Maryland Department of Transportation in the Office of Environment. The goal was to display each of MD State Highway Administrations facilities based on their Carbon emissions, in megatons of CO2E. Then that data was overlayed onto census data, which is poverty percentage, to complete an equity analysis of green house gas emissions.
 <img src="images/SHA%20Map%20(POV)%207_29.pdf"/>
