@@ -12,7 +12,7 @@
 <img src="images/Screen%20Shot%202022-02-21%20at%2010.21.26%20PM.png"/>
 
 ---
-[Project 3 Title](/project3_page)
+[Poverty Percentage as Determinant of Pothole Incidence](/project3_page)
 <img src="images/Lab4_Nick_Map.png"/>
 
 ---
