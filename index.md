@@ -4,8 +4,7 @@
 
 ### Geographic Information Systems Projects
 
-[QGIS Practice Map](/sample_page)
-This Project was an Introduction to QGIS. The Map shows Geomorphology of Alaska and Important natural features across the state
+[Alaska Geomorphology Map](/sample_page)
 <img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
 
 ---
@@ -18,19 +17,10 @@ This Project was an Introduction to QGIS. The Map shows Geomorphology of Alaska 
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
