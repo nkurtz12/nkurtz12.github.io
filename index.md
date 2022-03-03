@@ -4,7 +4,7 @@
 
 ### Geographic Information Systems Projects
 
-[Alaska Geomorphology Map](/project1_page)
+[Alaska Geomorphology Map](https://github.com/nkurtz12/nkurtz12.github.io/blob/master/project1_page.md)
 <img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
 
 ---
