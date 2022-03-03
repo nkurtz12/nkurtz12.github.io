@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](/project3_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Lab4_Nick_Map.png"/>
 
 ---
 
