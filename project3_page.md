@@ -1,1 +1,2 @@
-
+**Project description:** This map was created to investigate whether or not the percentage of households living below the poverty line at the community statistical area level for Baltimore City MD. There were 5,010 reports of potholes to 311 in 2020, of those 5,010, only 1,010 or 20% were in areas that had high levels of poverty. Percentage of households living below the poverty line is not a significant determinant of pothole incidence. 
+<img src="images/SHA%20Map%20(POV)%207_29.pdf"/>
