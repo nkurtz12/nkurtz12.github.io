@@ -1,5 +1,5 @@
 
-**Project description:** This project was made in QGIS. The Map is a map which displays the geomorphology of Alaska.
+**Project description:** For this project, I wanted to see how Income in the Denver Metro Area changed over time. I used the time period of 2015 to 2019 to observe how income changed for each census tract in the Denver Metro Area. 
 
 <img src="images/2015.png"/>
 
