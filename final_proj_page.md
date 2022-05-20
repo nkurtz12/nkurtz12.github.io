@@ -1,1 +1,7 @@
+Project Description
 
+One major issue that the world is grappling with is Environmental Injustices. Environmental injustices occur when a particular group faces an unequal distribution of negative impacts based on demographics, such as race. Historically around the US and even around the world, people of color face the greatest environmental injustices, and Baltimore City is no different. In Baltimore City, a large number of people take public transportation, and often time riders will take the bus to get to where they need to be. One aspect of riding a bus is waiting at a bus stop, and not every bus stop is the same, some have shelters, others are just a sign on the side of the road. Of those stops that do not have a shelter, trees can often time act as a shelter, provide shade, provide some protection from the elements, lower the urban heat island effect, and even beautify the city. To determine if there is a correlation to bus stops that do not have shelters and tree cover in Baltimore City an R-analysis will be undertaken. As well as looking at the relationship to bus stops and tree cover, census data will be used to see if there is a correlation to the lack of shelter and trees at bus stops is correlated to income and race. 
+
+Research Question: 
+
+How are bus stops without shelter from the Maryland Transit Agency distributed across Baltimore City, and is there a correlation to Race, Income, and tree cover?
