@@ -7,8 +7,8 @@
 [MTA Bus Stop and Tree Cover Analaysis](/final_proj_page)
 <##img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
 
-[Alaska Geomorphology Map](/project1_page)
-<img src="images/4B34B517-8867-4911-981A-903970FDEBE1.png"/>
+[Denver Metro Area Income Fluctuation](/project1_page)
+<img src="images/2015.png"/>
 
 ---
 [MDOT SHA Green House Gas Analysis](/project2_page)
