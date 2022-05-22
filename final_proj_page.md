@@ -5,3 +5,19 @@ One major issue that the world is grappling with is Environmental Injustices. En
 Research Question: 
 
 How are bus stops without shelter from the Maryland Transit Agency distributed across Baltimore City, and is there a correlation to Race, Income, and tree cover?
+
+
+Data:
+	- MDOT MTA Bus Stops - Source: Maryland Open Data Portal
+	- Demographic Data (Median Household Income, Race) - Source: United States Census Bureau 
+	- Baltimore City Tree Cover - Source: Provided from a previous lab
+
+Methods:
+
+To answer the research question, a spatial analysis will be undertaken. The first step was to filter all of the MDOT MTA bus stops down to only those within Baltimore City. Then those bus stops were filtered further to include those that do not have a shelter, the sheltered bus stops were used to compare to the unsheltered bus-stops. The next step was collecting data from the census bureau for median household income and race by census tract. Once all the data was gathered and cleaned up the analysis began. First, each bus stop, both sheltered and unsheltered, were buffered out to 250m, because only what was immediately around the bus stop was being observed. Once I had the buffers, I extracted the tree cover sum from the tree canopy raster data for each bus stop buffer. Then visuals were created, first census data was visualized as 6 classes going from low to high. Second, each bus stop canopy cover was visualized as 6 classes going from low canopy cover to high canopy cover. 
+
+The other aspect of the analysis was to see if there was an unequal distribution of sheltered bus stops. To do this each census variable was visualized as before, and then I created a tessellation using hexagons to show the density of sheltered bus stop points, and overlayed the tessellation onto each of the census variables. 
+
+Results/Conclusion:
+
+
