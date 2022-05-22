@@ -20,5 +20,24 @@ The other aspect of the analysis was to see if there was an unequal distribution
 
 Results/Conclusion:
 The following map shows Median Household Income for Baltiore City and buffered MTA Bus Stops Tree Cover.
-<img src= ""/>
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.25.48%20PM.png"/>
 
+This map shows White Population for Baltiore City and buffered MTA Bus Stops Tree Cover.
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.26.07%20PM.png"/>
+
+This map shows Black Population for Baltiore City and buffered MTA Bus Stops Tree Cover. 
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.26.19%20PM.png">
+
+This map shows Native Population for Baltiore City and buffered MTA Bus Stops Tree Cover.
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.26.31%20PM.png"/>
+
+This map shows Asian Population for Baltiore City and buffered MTA Bus Stops Tree Cover.
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.26.44%20PM.png"/>
+
+This map shows Hispanic Population for Baltiore City and buffered MTA Bus Stops Tree Cover.
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.26.53%20PM.png"/>
+
+Lastly, this map shows the distribution of sheltered MTA bus stops across Baltimore City, overlayed onto each census data variable. 
+<img src= "images/Screen%20Shot%202022-05-21%20at%2010.27.02%20PM.png"/>
+
+After performing this analysis, there were two key findings, one is that bus stops that are sheltered are more likely to be in areas that are white and wealthy. Two of the unsheltered bus stops, the highest canopy coverage were in the areas that were of higher income and whiter. These findings reinforce the need for environmental justice and to drive more tree planting and maintenance in areas that are non-white and of lower income. 
