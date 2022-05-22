@@ -19,5 +19,6 @@ To answer the research question, a spatial analysis will be undertaken. The firs
 The other aspect of the analysis was to see if there was an unequal distribution of sheltered bus stops. To do this each census variable was visualized as before, and then I created a tessellation using hexagons to show the density of sheltered bus stop points, and overlayed the tessellation onto each of the census variables. 
 
 Results/Conclusion:
-
+The following map shows Median Household Income for Baltiore City and buffered MTA Bus Stops Tree Cover.
+<img src= ""/>
 
