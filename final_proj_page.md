@@ -43,4 +43,4 @@ Lastly, this map shows the distribution of sheltered MTA bus stops across Baltim
 After performing this analysis, there were two key findings, one is that bus stops that are sheltered are more likely to be in areas that are white and wealthy. Two of the unsheltered bus stops, the highest canopy coverage were in the areas that were of higher income and whiter. These findings reinforce the need for environmental justice and to drive more tree planting and maintenance in areas that are non-white and of lower income. 
 
 
-To view the R-Markdown File click here
+ <a href="https://www.linkedin.com/in/nicholas-kurtz1223/">To View the R-Markdown, Click Here</a> 
